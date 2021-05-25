@@ -1,0 +1,22 @@
+C:\Users\romar\Desktop\Programas0551\MutipleFormulario\MultiForm\MultiForm\bin\Debug\MultiForm.exe.config
+C:\Users\romar\Desktop\Programas0551\MutipleFormulario\MultiForm\MultiForm\bin\Debug\MultiForm.exe
+C:\Users\romar\Desktop\Programas0551\MutipleFormulario\MultiForm\MultiForm\bin\Debug\MultiForm.pdb
+C:\Users\romar\Desktop\Programas0551\MutipleFormulario\MultiForm\MultiForm\obj\Debug\MultiForm.csprojAssemblyReference.cache
+C:\Users\romar\Desktop\Programas0551\MutipleFormulario\MultiForm\MultiForm\obj\Debug\MultiForm.Form1.resources
+C:\Users\romar\Desktop\Programas0551\MutipleFormulario\MultiForm\MultiForm\obj\Debug\MultiForm.Properties.Resources.resources
+C:\Users\romar\Desktop\Programas0551\MutipleFormulario\MultiForm\MultiForm\obj\Debug\MultiForm.csproj.GenerateResource.cache
+C:\Users\romar\Desktop\Programas0551\MutipleFormulario\MultiForm\MultiForm\obj\Debug\MultiForm.csproj.CoreCompileInputs.cache
+C:\Users\romar\Desktop\Programas0551\MutipleFormulario\MultiForm\MultiForm\obj\Debug\MultiForm.exe
+C:\Users\romar\Desktop\Programas0551\MutipleFormulario\MultiForm\MultiForm\obj\Debug\MultiForm.pdb
+C:\Users\romar\Desktop\Programas0551\MutipleFormulario\MultiForm\MultiForm\obj\Debug\MultiForm.Form2.resources
+C:\Users\necno\Desktop\UPCI\5\Programación objetos\MultiForm\bin\Debug\MultiForm.exe.config
+C:\Users\necno\Desktop\UPCI\5\Programación objetos\MultiForm\bin\Debug\MultiForm.exe
+C:\Users\necno\Desktop\UPCI\5\Programación objetos\MultiForm\bin\Debug\MultiForm.pdb
+C:\Users\necno\Desktop\UPCI\5\Programación objetos\MultiForm\obj\Debug\MultiForm.csprojAssemblyReference.cache
+C:\Users\necno\Desktop\UPCI\5\Programación objetos\MultiForm\obj\Debug\MultiForm.Form1.resources
+C:\Users\necno\Desktop\UPCI\5\Programación objetos\MultiForm\obj\Debug\MultiForm.Form2.resources
+C:\Users\necno\Desktop\UPCI\5\Programación objetos\MultiForm\obj\Debug\MultiForm.Properties.Resources.resources
+C:\Users\necno\Desktop\UPCI\5\Programación objetos\MultiForm\obj\Debug\MultiForm.csproj.GenerateResource.cache
+C:\Users\necno\Desktop\UPCI\5\Programación objetos\MultiForm\obj\Debug\MultiForm.csproj.CoreCompileInputs.cache
+C:\Users\necno\Desktop\UPCI\5\Programación objetos\MultiForm\obj\Debug\MultiForm.exe
+C:\Users\necno\Desktop\UPCI\5\Programación objetos\MultiForm\obj\Debug\MultiForm.pdb

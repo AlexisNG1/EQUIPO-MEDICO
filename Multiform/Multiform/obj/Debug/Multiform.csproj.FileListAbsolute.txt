@@ -1,0 +1,11 @@
+C:\Users\necno\Desktop\UPCI\5\Programación objetos\Multiform\Multiform\bin\Debug\Multiform.exe.config
+C:\Users\necno\Desktop\UPCI\5\Programación objetos\Multiform\Multiform\bin\Debug\Multiform.exe
+C:\Users\necno\Desktop\UPCI\5\Programación objetos\Multiform\Multiform\bin\Debug\Multiform.pdb
+C:\Users\necno\Desktop\UPCI\5\Programación objetos\Multiform\Multiform\obj\Debug\Multiform.csprojAssemblyReference.cache
+C:\Users\necno\Desktop\UPCI\5\Programación objetos\Multiform\Multiform\obj\Debug\Multiform.Inicio.resources
+C:\Users\necno\Desktop\UPCI\5\Programación objetos\Multiform\Multiform\obj\Debug\Multiform.Properties.Resources.resources
+C:\Users\necno\Desktop\UPCI\5\Programación objetos\Multiform\Multiform\obj\Debug\Multiform.csproj.GenerateResource.cache
+C:\Users\necno\Desktop\UPCI\5\Programación objetos\Multiform\Multiform\obj\Debug\Multiform.csproj.CoreCompileInputs.cache
+C:\Users\necno\Desktop\UPCI\5\Programación objetos\Multiform\Multiform\obj\Debug\Multiform.exe
+C:\Users\necno\Desktop\UPCI\5\Programación objetos\Multiform\Multiform\obj\Debug\Multiform.pdb
+C:\Users\necno\Desktop\UPCI\5\Programación objetos\Multiform\Multiform\obj\Debug\Multiform.HOLA.resources
